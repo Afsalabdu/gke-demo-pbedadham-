@@ -1,7 +1,7 @@
 #Variable file
 variable "project_id" {
   description = "The project ID to host the cluster in"
-  default     = "modular-edge-183716"
+  default     = "sincere-hybrid-459911-h5"
 }
 variable "cluster_name" {
   description = "The name for the GKE cluster"
@@ -9,7 +9,7 @@ variable "cluster_name" {
 }
 variable "env_name" {
   description = "The environment for the GKE cluster"
-  default     = "prod"
+  default     = "dev"
 }
 variable "region" {
   description = "The region to host the cluster in"
