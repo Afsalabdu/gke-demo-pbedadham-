@@ -1,6 +1,6 @@
 # GKE Cluster Creation with Various Methods
 
-This repository contains examples and documentation for creating Google Kubernetes Engine (GKE) clusters on the Google Cloud Platform (GCP) using different methods. GKE provides a managed Kubernetes environment that simplifies cluster creation and management.
+This repository contains examples and documentation for creating Google Kubernetes Engine (GKE) clusters on the Google Cloud Platform (GCP) using different methods. GKE provides a managed Kubernetes environment that simplifies cluster creation and management..
 
 ## Table of Contents
 
