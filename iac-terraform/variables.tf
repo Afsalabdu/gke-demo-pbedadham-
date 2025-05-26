@@ -1,4 +1,4 @@
-#Variable file
+#Variable file.
 variable "project_id" {
   description = "The project ID to host the cluster in"
   default     = "sincere-hybrid-459911-h5"
